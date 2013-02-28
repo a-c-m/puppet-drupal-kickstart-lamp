@@ -17,3 +17,6 @@
 	path = modules/firewall
 	url = https://github.com/puppetlabs/puppetlabs-firewall
 
+[submodule "modules/drush"]
+	path = modules/drush
+	url = https://github.com/a-c-m/puppet-drush-simple.git
