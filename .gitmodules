@@ -1,0 +1,31 @@
+[submodule "modules/apt"]
+  path = modules/apt
+  url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "modules/stdlib"]
+  path = modules/stdlib
+  url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/pear"]
+  path = modules/pear
+  url = https://github.com/rafaelfelix/puppet-pear.git
+[submodule "modules/git"]
+  path = modules/git
+  url = https://github.com/puppetlabs/puppetlabs-git.git
+[submodule "modules/drush"]
+  path = modules/drush
+  url = http://git.drupal.org/project/puppet-drush.git
+[submodule "modules/common"]
+  path = modules/common
+  url = git://labs.riseup.net/shared-common
+[submodule "modules/mysql"]
+  path = modules/mysql
+  url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "modules/php"]
+  path = modules/php
+  url = https://github.com/saz/puppet-php.git
+[submodule "modules/apache"]
+  path = modules/apache
+  url = https://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "modules/firewall"]
+  path = modules/firewall
+  url = https://github.com/puppetlabs/puppetlabs-firewall
+
